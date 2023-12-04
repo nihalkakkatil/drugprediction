@@ -1,2 +1,1 @@
-print("drugreco")
-print("M")
+print("scratch")
